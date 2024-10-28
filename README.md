@@ -12,7 +12,7 @@ To develop a Django application to store and retrieve data from a bank loan data
 ### STEP 1:
 Clone the problem from GitHub
 
-### STEP 2:ASF V0   ./.
+### STEP 2:
 
 
 Create a new app in Django project
